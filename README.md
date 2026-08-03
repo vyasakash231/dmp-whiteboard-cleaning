@@ -1,4 +1,4 @@
-# DMP-Based Whiteboard Cleaning using Learning from Demonstration
+# DMP-Based Whiteboard Cleaning Task
 
 This project demonstrates a **Learning from Demonstration (LfD)** framework for robotic whiteboard cleaning using **Dynamic Movement Primitives (DMPs)**. The robot learns a cleaning trajectory from human demonstrations and reproduces it autonomously.
 
