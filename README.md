@@ -30,4 +30,12 @@ This project demonstrates a **Learning from Demonstration (LfD)** framework for 
 
 The learned Cartesian trajectory generated using Dynamic Movement Primitives is tracked using an impedance controller. The controller combines stiffness and damping feedback with gravity and Coriolis compensation to achieve compliant contact during the whiteboard cleaning task.
 
-![Control Architecture](images/impedance_force.png)
+![System Pipeline](images/flowchart.png)
+
+---
+
+## Experimental Results
+
+The figure below shows the Cartesian impedance force generated during task execution.
+
+![Impedance Force](images/impedance_force.png)
